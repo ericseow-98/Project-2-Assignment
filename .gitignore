@@ -1,9 +1,0 @@
-# Security secrets
-.env
-
-# Python cache files
-__pycache__/
-*.pyc
-
-# Windows system files
-*Zone.Identifier
