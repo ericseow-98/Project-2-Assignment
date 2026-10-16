@@ -1,0 +1,9 @@
+metric,value
+total_charging_points,11605.0
+available_charging_points,8625.0
+occupied_charging_points,2541.0
+unknown_status_charging_points,439.0
+ac_charging_points,10001.0
+dc_charging_points,1604.0
+average_power_rating_kw,24.922860835846617
+average_price_per_kwh,0.6973508331871602

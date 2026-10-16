@@ -1,0 +1,33 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*credentials*.json
+application_default_credentials.json
+adc.json
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# dbt
+dbt/sg_ev/target/
+dbt/sg_ev/dbt_packages/
+dbt/sg_ev/logs/
+
+# Dagster local state
+.tmp_dagster_home_*/
+dagster_home/
+
+# Python environments
+.venv/
+
+# Temporary Dagster state
+.tmp_dagster_home_*/
+
+# Backup files
+*.bak
+
+# Logs
+*.log
